@@ -1,4 +1,4 @@
-'''gg adik2'''
+'''module matplotlib adalah salah satu library yang digunakan untuk visualisasi data.'''
 import matplotlib.pyplot as plt
 
 # Data
